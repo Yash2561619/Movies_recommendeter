@@ -1,3 +1,7 @@
 venv/
 __pycache__/
 *.pkl
+
+# Do NOT ignore these specific pickle files
+!movies_dict.pkl
+!similarity.pkl
